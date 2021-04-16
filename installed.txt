@@ -5,7 +5,7 @@ Django==2.2.7
 django-allauth==0.40.0
 django-countries==5.5
 django-crispy-forms==1.8.1
-django-debug-toolbar==2.1
+django-debug-toolbar==2.2.1
 django-decouple==2.1
 idna==2.8
 oauthlib==3.1.0
